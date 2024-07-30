@@ -1,0 +1,27 @@
+Etec de Itanhaém
+Disciplina: Segurança da Informação
+Nomes: Aline Castro e Tayane de Oliveira Tobias
+Data: 29/07/2024
+
+**Resumo do Semestre Passado**
+
+**Tópicos Estudados:**
+- Criptografia Simétrica e Assimétrica
+- Técnicas de Google Hacking
+- SQL Injection
+- Cifra de César
+- Funções Hash
+
+No semestre passado, tivemos diversos aprendizados valiosos em Segurança da Informação, abrangendo os seguintes tópicos:
+
+**Criptografia Simétrica e Assimétrica:** Aprendemos sobre as diferenças fundamentais entre esses dois tipos de criptografia. Na criptografia simétrica, uma única chave é utilizada tanto para criptografar quanto para descriptografar os dados. Já na criptografia assimétrica, um par de chaves é utilizado: uma chave pública para criptografar os dados e uma chave privada para descriptografá-los.
+
+**Técnicas de Google Hacking:** Exploramos técnicas de Google Hacking para identificar vulnerabilidades em sites. Estas técnicas permitem a utilização de operadores avançados de pesquisa do Google para encontrar informações sensíveis ou falhas de segurança em websites.
+
+**SQL Injection:** Estudamos como ataques de SQL Injection funcionam, onde comandos SQL maliciosos são inseridos em campos de entrada para manipular ou acessar indevidamente o banco de dados. Aprendemos também como mitigar esses ataques através de boas práticas de programação e validação de entrada de dados.
+
+**Cifra de César:** Este método de criptografia simples foi explicado, demonstrando como cada letra do alfabeto é deslocada por um número fixo de posições. A Cifra de César é um dos algoritmos de criptografia mais antigos e básicos, servindo como uma introdução à criptografia.
+
+**Funções Hash:** Vimos como as funções hash são utilizadas para converter dados de entrada em um valor único e fixo, conhecido como hash. Essas funções são essenciais para garantir a integridade dos dados e são amplamente usadas em sistemas de segurança e autenticação.
+
+Durante o semestre, com o apoio dos professores, conseguimos compreender e aplicar esses conceitos de maneira prática, fortalecendo nosso conhecimento e habilidades em Segurança da Informação.
