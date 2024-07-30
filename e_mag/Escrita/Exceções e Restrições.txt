@@ -1,0 +1,13 @@
+Na Lei de Acesso à Informação (Lei 12.527/2011), estão previstas algumas exceções e restrições ao acesso às informações públicas. Essas exceções têm como objetivo proteger determinados interesses legítimos e são aplicadas em situações específicas. Algumas das principais exceções incluem:
+
+    Sigilo Legal: Informações que estão protegidas por sigilo legal, como aquelas relacionadas à segurança nacional, à investigação criminal em andamento, à privacidade de indivíduos, entre outras.
+
+    Segurança Pública: Informações cuja divulgação possa comprometer a segurança pública, a ordem pública ou a defesa do Estado.
+
+    Interesse Comercial e Industrial: Informações consideradas sigilosas por empresas privadas, como segredos comerciais, estratégias de mercado, entre outros.
+
+    Documentos Preparatórios: Documentos preparatórios de decisões administrativas, que ainda não tenham sido finalizados ou aprovados, podem estar sujeitos a restrições de acesso.
+
+    Proteção de Dados Pessoais: Informações que envolvam dados pessoais sensíveis, como informações médicas, financeiras, ou que possam gerar discriminação ou preconceito.
+
+Essas são apenas algumas das exceções previstas na lei. É importante ressaltar que as exceções ao acesso à informação devem ser interpretadas de forma restritiva, ou seja, apenas quando estritamente necessário para proteger os interesses legítimos estabelecidos na própria legislação. O princípio geral é o da transparência e do acesso amplo às informações públicas, sendo as exceções aplicadas de forma justificada e fundamentada.

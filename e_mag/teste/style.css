@@ -1,0 +1,113 @@
+* {
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-color: #f0f0f0;
+    margin: 0;
+}
+
+html{
+    height: 500vh;
+    background-color: #000000;
+}
+
+#header {
+    background-color: transparent;
+    position: fixed;
+    width: 100%;
+    transition: background-color 0.5s ease-in-out;
+}
+
+.button {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #f4511e;
+    border: none;
+    color: #FFF;
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: -22px;
+  }
+  
+  .button span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+  .button span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  .button:hover span {
+    padding-right: 25px;
+  }
+  
+  .button:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+
+
+#header nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    margin: 1px;
+
+}
+
+#header nav ul li {
+    margin: 0 30px;
+}
+
+#header nav ul li a {
+    text-decoration: none;
+    color: #6de0de;
+    /*
+    color: #fe775a;
+    */
+    font-weight: bold;
+    transition: color 0.3s;
+    
+}
+
+#header nav ul li a:hover {
+    color: rgb(254, 119, 90);
+}
+
+.banner {
+    height: 100vh;
+    background-image: url(imagens/images.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.banner h1 {
+    font-size: 4rem;
+    color: #fff;
+}
+
+.banner h1 span {
+    color: #67ebe8;
+}
+

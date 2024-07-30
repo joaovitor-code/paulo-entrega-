@@ -1,0 +1,15 @@
+A transparência ativa refere-se à prática de disponibilizar proativamente informações de interesse público, sem que haja a necessidade de solicitação por parte dos cidadãos. Isso significa que os órgãos públicos devem divulgar de forma clara e acessível uma série de informações relevantes sobre suas atividades, decisões, gastos públicos, entre outros aspectos.
+
+Alguns exemplos de práticas de transparência ativa incluem:
+
+    Portal da Transparência: Manutenção de um portal online onde são disponibilizadas informações sobre orçamento público, despesas, receitas, licitações, contratos, convênios, entre outros.
+
+    Relatórios de Gestão: Elaboração e divulgação de relatórios periódicos que apresentem um panorama das atividades realizadas pelo órgão público, incluindo resultados alcançados e recursos utilizados.
+
+    Dados Abertos: Disponibilização de dados em formato aberto e acessível, permitindo que sejam utilizados por pesquisadores, jornalistas, desenvolvedores de aplicativos e pela sociedade em geral.
+
+    Publicação de Decisões e Atos Administrativos: Divulgação de decisões, pareceres, portarias, despachos e outros atos administrativos relevantes para a sociedade.
+
+    Informações Institucionais: Disponibilização de informações sobre a estrutura organizacional do órgão público, contatos, competências, horários de funcionamento, entre outros.
+
+A transparência ativa é uma importante ferramenta para promover a prestação de contas, fortalecer a democracia e aumentar a participação cidadã na gestão pública. Ao divulgar informações de forma proativa, os órgãos públicos contribuem para uma maior fiscalização e controle social sobre suas atividades.
